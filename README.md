@@ -8,6 +8,10 @@
 
 - [карта знаний](./roadmap/map.md)
 
+## Мероприятия
+
+- [MagiQAns meetup #1](https://community-z.com/events/magiqans-meetup-1)
+
 ## Мы в социальных сетях
 
 [![alt text][1.2]][1]
